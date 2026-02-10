@@ -1,7 +1,6 @@
-# OS-Patches-Deployment-Guide.md
-Step by Step of os patches deployment on ITsupport247
+# Deploying Missing OS Patches by Policy - ITSupport247 Guide  
 
-# Deploying Missing OS Patches by Policy - ITSupport247 Guide
+Step by Step of os patches deployment on ITsupport247   
 
 ## Prerequisites
 - Active ConnectWise + ITSupport247 RMM access
@@ -53,4 +52,4 @@ Results appear in the Automation history and reporting sections.
 - Policy-based deployment across targets
 - Compliance reporting and audit trail  
   
-Author Contact: Luis Lazo
+Author Contact: Luis Lazo & perplexityAI

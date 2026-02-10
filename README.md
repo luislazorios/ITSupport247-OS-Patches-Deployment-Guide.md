@@ -1,5 +1,5 @@
 # OS-Patches-Deployment-Guide.md
-Step by Step of os patches deployment on support247
+Step by Step of os patches deployment on ITsupport247
 
 # Deploying Missing OS Patches by Policy - ITSupport247 Guide
 
